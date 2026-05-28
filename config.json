@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsvync",
+        "uuid": 34488773,
+        "checksum": "9v40j8"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
